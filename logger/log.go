@@ -25,8 +25,8 @@ import (
 	"os"
 
 	"github.com/go-logr/logr"
-	"github.com/praetorian-inc/AzureHound/config"
-	logger "github.com/praetorian-inc/AzureHound/logger/internal"
+	"github.com/praetorian-inc/AzureHound/v2/config"
+	logger "github.com/praetorian-inc/AzureHound/v2/logger/internal"
 )
 
 func setupLogger() (*logr.Logger, error) {

@@ -18,7 +18,7 @@
 package azure
 
 import (
-	"github.com/praetorian-inc/AzureHound/enums"
+	"github.com/praetorian-inc/AzureHound/v2/enums"
 )
 
 // A set of rules governing the network accessibility of a vault.

@@ -19,7 +19,7 @@ package azure
 
 import (
 	"github.com/gofrs/uuid"
-	"github.com/praetorian-inc/AzureHound/enums"
+	"github.com/praetorian-inc/AzureHound/v2/enums"
 )
 
 // Object used to specify an OAuth 2.0 permission scope or an app role that an application requires.

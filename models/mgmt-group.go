@@ -18,7 +18,7 @@
 package models
 
 import (
-	"github.com/praetorian-inc/AzureHound/models/azure"
+	"github.com/praetorian-inc/AzureHound/v2/models/azure"
 )
 
 type ManagementGroup struct {

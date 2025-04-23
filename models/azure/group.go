@@ -18,7 +18,7 @@
 package azure
 
 import (
-	"github.com/praetorian-inc/AzureHound/enums"
+	"github.com/praetorian-inc/AzureHound/v2/enums"
 )
 
 // Represents an Azure Active Directory (Azure AD) group, which can be a Microsoft 365 group, or a security group.

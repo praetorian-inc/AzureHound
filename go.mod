@@ -1,4 +1,4 @@
-module github.com/praetorian-inc/AzureHound
+module github.com/praetorian-inc/AzureHound/v2
 
 go 1.20
 

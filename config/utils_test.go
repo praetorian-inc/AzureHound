@@ -20,8 +20,8 @@ package config_test
 import (
 	"testing"
 
-	"github.com/praetorian-inc/AzureHound/config"
-	"github.com/praetorian-inc/AzureHound/logger"
+	"github.com/praetorian-inc/AzureHound/v2/config"
+	"github.com/praetorian-inc/AzureHound/v2/logger"
 )
 
 func TestCheckCollectionConfigSanity(t *testing.T) {

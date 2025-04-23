@@ -17,7 +17,7 @@
 
 package azure
 
-import "github.com/praetorian-inc/AzureHound/enums"
+import "github.com/praetorian-inc/AzureHound/v2/enums"
 
 // Deprecated, use ManagedIdentity
 type VirtualMachineIdentity ManagedIdentity

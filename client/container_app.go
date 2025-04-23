@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/praetorian-inc/AzureHound/client/query"
-	"github.com/praetorian-inc/AzureHound/models/azure"
+	"github.com/praetorian-inc/AzureHound/v2/client/query"
+	"github.com/praetorian-inc/AzureHound/v2/models/azure"
 )
 
 // ListAzureContainerApps https://learn.microsoft.com/en-us/rest/api/resource-manager/containerapps/container-apps/list-by-subscription

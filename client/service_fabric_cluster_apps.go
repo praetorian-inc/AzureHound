@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/praetorian-inc/AzureHound/client/query"
-	"github.com/praetorian-inc/AzureHound/models/azure"
+	"github.com/praetorian-inc/AzureHound/v2/client/query"
+	"github.com/praetorian-inc/AzureHound/v2/models/azure"
 )
 
 // ListAzureServiceFabricClusterApps https://learn.microsoft.com/en-us/rest/api/servicefabric/application/applications/list?view=rest-servicefabric-application-2023-11-01-preview

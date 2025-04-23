@@ -17,7 +17,7 @@
 
 package azure
 
-import "github.com/praetorian-inc/AzureHound/enums"
+import "github.com/praetorian-inc/AzureHound/v2/enums"
 
 type MailboxSettings struct {
 	// Folder ID of an archive folder for the user.

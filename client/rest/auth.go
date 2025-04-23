@@ -25,8 +25,8 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/praetorian-inc/AzureHound/client/config"
-	"github.com/praetorian-inc/AzureHound/constants"
+	"github.com/praetorian-inc/AzureHound/v2/client/config"
+	"github.com/praetorian-inc/AzureHound/v2/constants"
 )
 
 // AuthStrategy is an interface that defines the methods that an authentication strategy must implement

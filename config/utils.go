@@ -22,9 +22,9 @@ import (
 	"net/url"
 
 	"github.com/go-logr/logr"
-	client "github.com/praetorian-inc/AzureHound/client/config"
-	config "github.com/praetorian-inc/AzureHound/config/internal"
-	"github.com/praetorian-inc/AzureHound/constants"
+	client "github.com/praetorian-inc/AzureHound/v2/client/config"
+	config "github.com/praetorian-inc/AzureHound/v2/config/internal"
+	"github.com/praetorian-inc/AzureHound/v2/constants"
 )
 
 var Init = config.Init

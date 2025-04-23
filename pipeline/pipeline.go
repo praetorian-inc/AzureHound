@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/praetorian-inc/AzureHound/internal"
+	"github.com/praetorian-inc/AzureHound/v2/internal"
 )
 
 type Result[T any] struct {

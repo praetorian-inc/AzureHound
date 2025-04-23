@@ -23,12 +23,12 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/praetorian-inc/AzureHound/client"
-	"github.com/praetorian-inc/AzureHound/client/query"
-	"github.com/praetorian-inc/AzureHound/enums"
-	"github.com/praetorian-inc/AzureHound/models"
-	"github.com/praetorian-inc/AzureHound/panicrecovery"
-	"github.com/praetorian-inc/AzureHound/pipeline"
+	"github.com/praetorian-inc/AzureHound/v2/client"
+	"github.com/praetorian-inc/AzureHound/v2/client/query"
+	"github.com/praetorian-inc/AzureHound/v2/enums"
+	"github.com/praetorian-inc/AzureHound/v2/models"
+	"github.com/praetorian-inc/AzureHound/v2/panicrecovery"
+	"github.com/praetorian-inc/AzureHound/v2/pipeline"
 	"github.com/spf13/cobra"
 )
 

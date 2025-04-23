@@ -24,8 +24,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/praetorian-inc/AzureHound/cmd"
-	"github.com/praetorian-inc/AzureHound/constants"
+	"github.com/praetorian-inc/AzureHound/v2/cmd"
+	"github.com/praetorian-inc/AzureHound/v2/constants"
 )
 
 func main() {

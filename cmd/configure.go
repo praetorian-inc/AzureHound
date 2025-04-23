@@ -38,8 +38,8 @@ import (
 
 	"github.com/gofrs/uuid"
 	"github.com/manifoldco/promptui"
-	"github.com/praetorian-inc/AzureHound/config"
-	"github.com/praetorian-inc/AzureHound/enums"
+	"github.com/praetorian-inc/AzureHound/v2/config"
+	"github.com/praetorian-inc/AzureHound/v2/enums"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 	"github.com/youmark/pkcs8"

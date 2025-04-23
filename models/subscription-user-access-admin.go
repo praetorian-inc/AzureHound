@@ -17,7 +17,7 @@
 
 package models
 
-import "github.com/praetorian-inc/AzureHound/models/azure"
+import "github.com/praetorian-inc/AzureHound/v2/models/azure"
 
 type SubscriptionUserAccessAdmin struct {
 	UserAccessAdmin azure.RoleAssignment `json:"userAccessAdmin"`

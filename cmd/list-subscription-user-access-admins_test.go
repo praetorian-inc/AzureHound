@@ -21,10 +21,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/praetorian-inc/AzureHound/client/mocks"
-	"github.com/praetorian-inc/AzureHound/constants"
-	"github.com/praetorian-inc/AzureHound/models"
-	"github.com/praetorian-inc/AzureHound/models/azure"
+	"github.com/praetorian-inc/AzureHound/v2/client/mocks"
+	"github.com/praetorian-inc/AzureHound/v2/constants"
+	"github.com/praetorian-inc/AzureHound/v2/models"
+	"github.com/praetorian-inc/AzureHound/v2/models/azure"
 	"go.uber.org/mock/gomock"
 )
 

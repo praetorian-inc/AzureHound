@@ -17,7 +17,7 @@
 
 package models
 
-import "github.com/praetorian-inc/AzureHound/models/azure"
+import "github.com/praetorian-inc/AzureHound/v2/models/azure"
 
 type SubscriptionOwner struct {
 	Owner          azure.RoleAssignment `json:"owner"`

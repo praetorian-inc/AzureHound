@@ -17,7 +17,7 @@
 
 package azure
 
-import "github.com/praetorian-inc/AzureHound/enums"
+import "github.com/praetorian-inc/AzureHound/v2/enums"
 
 type NetworkInterfaceReferenceProperties struct {
 	// Specify what happens to the network interface when the VM is deleted.

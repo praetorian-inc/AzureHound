@@ -17,7 +17,7 @@
 
 package azure
 
-import "github.com/praetorian-inc/AzureHound/enums"
+import "github.com/praetorian-inc/AzureHound/v2/enums"
 
 type SiteConfig struct {
 	AcrUseManagedIdentityCreds             bool                             `json:"acrUseManagedIdentityCreds,omitempty"`

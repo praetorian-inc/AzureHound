@@ -18,7 +18,7 @@
 package azure
 
 import (
-	"github.com/praetorian-inc/AzureHound/enums"
+	"github.com/praetorian-inc/AzureHound/v2/enums"
 )
 
 // Provides details about license assignments to a user.

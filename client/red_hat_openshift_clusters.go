@@ -21,8 +21,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/praetorian-inc/AzureHound/client/query"
-	"github.com/praetorian-inc/AzureHound/models/azure"
+	"github.com/praetorian-inc/AzureHound/v2/client/query"
+	"github.com/praetorian-inc/AzureHound/v2/models/azure"
 )
 
 // ListAzureRedHatOpenShiftCluster https://learn.microsoft.com/en-us/rest/api/openshift/open-shift-clusters/list?view=rest-openshift-2023-11-22

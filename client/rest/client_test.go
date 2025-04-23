@@ -23,7 +23,7 @@ import (
 
 	"testing"
 
-	"github.com/praetorian-inc/AzureHound/client/config"
+	"github.com/praetorian-inc/AzureHound/v2/client/config"
 )
 
 func TestClosedConnection(t *testing.T) {

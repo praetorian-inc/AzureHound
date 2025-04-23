@@ -19,7 +19,7 @@ package azure
 
 import (
 	"github.com/gofrs/uuid"
-	"github.com/praetorian-inc/AzureHound/enums"
+	"github.com/praetorian-inc/AzureHound/v2/enums"
 )
 
 // Represents a plan assigned to user and organization entities.

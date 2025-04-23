@@ -20,7 +20,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/praetorian-inc/AzureHound/constants"
+	"github.com/praetorian-inc/AzureHound/v2/constants"
 	"github.com/spf13/cobra"
 	"golang.org/x/sys/windows/svc/eventlog"
 	"golang.org/x/sys/windows/svc/mgr"

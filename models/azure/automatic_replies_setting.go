@@ -18,7 +18,7 @@
 package azure
 
 import (
-	"github.com/praetorian-inc/AzureHound/enums"
+	"github.com/praetorian-inc/AzureHound/v2/enums"
 )
 
 // Configuration settings to automatically notify the sender of an incoming email with a message from the signed-in
