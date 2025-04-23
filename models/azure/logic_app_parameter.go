@@ -18,7 +18,7 @@
 package azure
 
 import (
-	"github.com/bloodhoundad/azurehound/v2/enums"
+	"github.com/praetorian-inc/AzureHound/enums"
 )
 
 type LogicAppParameter struct {

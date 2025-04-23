@@ -17,7 +17,7 @@
 
 package azure
 
-import "github.com/bloodhoundad/azurehound/v2/enums"
+import "github.com/praetorian-inc/AzureHound/enums"
 
 type ConnectionItemProperties struct {
 	//Properties of the private endpoint object.

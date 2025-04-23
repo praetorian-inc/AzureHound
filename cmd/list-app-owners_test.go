@@ -23,11 +23,11 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/bloodhoundad/azurehound/v2/client"
-	"github.com/bloodhoundad/azurehound/v2/client/mocks"
-	"github.com/bloodhoundad/azurehound/v2/enums"
-	"github.com/bloodhoundad/azurehound/v2/models"
-	"github.com/bloodhoundad/azurehound/v2/models/azure"
+	"github.com/praetorian-inc/AzureHound/client"
+	"github.com/praetorian-inc/AzureHound/client/mocks"
+	"github.com/praetorian-inc/AzureHound/enums"
+	"github.com/praetorian-inc/AzureHound/models"
+	"github.com/praetorian-inc/AzureHound/models/azure"
 	"go.uber.org/mock/gomock"
 )
 

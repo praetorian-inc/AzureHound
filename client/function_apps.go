@@ -21,8 +21,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bloodhoundad/azurehound/v2/client/query"
-	"github.com/bloodhoundad/azurehound/v2/models/azure"
+	"github.com/praetorian-inc/AzureHound/client/query"
+	"github.com/praetorian-inc/AzureHound/models/azure"
 )
 
 // ListAzureFunctionApps

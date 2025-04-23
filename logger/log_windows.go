@@ -21,10 +21,10 @@ import (
 	"io"
 	"os"
 
-	"github.com/bloodhoundad/azurehound/v2/config"
-	"github.com/bloodhoundad/azurehound/v2/constants"
-	logger "github.com/bloodhoundad/azurehound/v2/logger/internal"
 	"github.com/go-logr/logr"
+	"github.com/praetorian-inc/AzureHound/config"
+	"github.com/praetorian-inc/AzureHound/constants"
+	logger "github.com/praetorian-inc/AzureHound/logger/internal"
 	"github.com/rs/zerolog"
 	"golang.org/x/sys/windows/svc"
 )

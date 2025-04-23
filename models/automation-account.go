@@ -17,7 +17,7 @@
 
 package models
 
-import "github.com/bloodhoundad/azurehound/v2/models/azure"
+import "github.com/praetorian-inc/AzureHound/models/azure"
 
 type AutomationAccount struct {
 	azure.AutomationAccount

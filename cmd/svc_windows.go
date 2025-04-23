@@ -21,9 +21,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bloodhoundad/azurehound/v2/config"
-	"github.com/bloodhoundad/azurehound/v2/logger"
 	"github.com/judwhite/go-svc"
+	"github.com/praetorian-inc/AzureHound/config"
+	"github.com/praetorian-inc/AzureHound/logger"
 )
 
 func StartWindowsService() error {

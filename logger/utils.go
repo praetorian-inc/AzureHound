@@ -21,8 +21,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/bloodhoundad/azurehound/v2/config"
 	"github.com/go-logr/logr"
+	"github.com/praetorian-inc/AzureHound/config"
 )
 
 var (

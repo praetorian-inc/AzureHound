@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bloodhoundad/azurehound/v2/client/query"
-	"github.com/bloodhoundad/azurehound/v2/models/azure"
+	"github.com/praetorian-inc/AzureHound/client/query"
+	"github.com/praetorian-inc/AzureHound/models/azure"
 )
 
 // ListAzureRBACRoleDefinitions https://learn.microsoft.com/en-us/rest/api/authorization/role-definitions/list?view=rest-authorization-2022-04-01

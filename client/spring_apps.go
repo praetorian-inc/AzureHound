@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bloodhoundad/azurehound/v2/client/query"
-	"github.com/bloodhoundad/azurehound/v2/models/azure"
+	"github.com/praetorian-inc/AzureHound/client/query"
+	"github.com/praetorian-inc/AzureHound/models/azure"
 )
 
 // ListAzureSpringApps https://learn.microsoft.com/en-us/rest/api/azurespringapps/apps/list?view=rest-azurespringapps-2023-12-01

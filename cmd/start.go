@@ -37,12 +37,12 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/bloodhoundad/azurehound/v2/client/rest"
-	"github.com/bloodhoundad/azurehound/v2/config"
-	"github.com/bloodhoundad/azurehound/v2/constants"
-	"github.com/bloodhoundad/azurehound/v2/models"
-	"github.com/bloodhoundad/azurehound/v2/panicrecovery"
-	"github.com/bloodhoundad/azurehound/v2/pipeline"
+	"github.com/praetorian-inc/AzureHound/client/rest"
+	"github.com/praetorian-inc/AzureHound/config"
+	"github.com/praetorian-inc/AzureHound/constants"
+	"github.com/praetorian-inc/AzureHound/models"
+	"github.com/praetorian-inc/AzureHound/panicrecovery"
+	"github.com/praetorian-inc/AzureHound/pipeline"
 )
 
 const (

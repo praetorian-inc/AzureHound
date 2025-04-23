@@ -17,7 +17,7 @@
 
 package azure
 
-import "github.com/bloodhoundad/azurehound/v2/enums"
+import "github.com/praetorian-inc/AzureHound/enums"
 
 // The parameters of a managed disk.
 type ManagedDiskParameters struct {

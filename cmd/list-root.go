@@ -24,9 +24,9 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/bloodhoundad/azurehound/v2/client"
-	"github.com/bloodhoundad/azurehound/v2/config"
-	"github.com/bloodhoundad/azurehound/v2/pipeline"
+	"github.com/praetorian-inc/AzureHound/client"
+	"github.com/praetorian-inc/AzureHound/config"
+	"github.com/praetorian-inc/AzureHound/pipeline"
 	"github.com/spf13/cobra"
 )
 

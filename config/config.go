@@ -24,9 +24,9 @@ import (
 	"runtime"
 	"strings"
 
-	config "github.com/bloodhoundad/azurehound/v2/config/internal"
-	"github.com/bloodhoundad/azurehound/v2/constants"
-	"github.com/bloodhoundad/azurehound/v2/enums"
+	config "github.com/praetorian-inc/AzureHound/config/internal"
+	"github.com/praetorian-inc/AzureHound/constants"
+	"github.com/praetorian-inc/AzureHound/enums"
 )
 
 type Config = config.Config
